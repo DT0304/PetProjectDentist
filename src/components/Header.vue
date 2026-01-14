@@ -36,7 +36,7 @@
 </template>
 
 <script setup lang="ts">
-// логики пока не требуется
+
 </script>
 
 <style scoped>
