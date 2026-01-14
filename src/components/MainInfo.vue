@@ -1,5 +1,5 @@
 <template>
-  <section class="team-photo">
+  <section class="team-photo" id="home">
     <!-- ФОН -->
     <img
       src="../../public/BackgroundPhoto.png"

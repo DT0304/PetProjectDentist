@@ -11,7 +11,7 @@
         <li><a href="#home">Главная</a></li>
         <li><a href="#services">Услуги</a></li>
         <li><a href="#doctors">Врачи</a></li>
-        <li><a href="#reviews">Отзывы</a></li>
+        <li><a href="#faq">Вопросы и ответы</a></li>
       </ul>
     </nav>
 
