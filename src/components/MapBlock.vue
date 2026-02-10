@@ -48,6 +48,8 @@ function initMap() {
       controls: ['zoomControl', 'fullscreenControl'],
     })
 
+    map.behaviors.disable('scrollZoom')
+
     // маркер клиники
     const placemark = new ymaps.Placemark(
       coords,

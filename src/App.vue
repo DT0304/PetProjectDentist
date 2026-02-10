@@ -6,6 +6,7 @@ import ServiceBlock from "./components/ServiceBlock.vue";
 import TechBlock from "./components/TechBlock.vue";
 import FAQvue from "./components/FAQ.vue";
 import MapBlock from "./components/MapBlock.vue";
+import FooterVue from "./components/Footer.vue";
 </script>
 
 <template>
@@ -16,6 +17,7 @@ import MapBlock from "./components/MapBlock.vue";
   <TechBlock />
   <FAQvue />
   <MapBlock />
+  <FooterVue />
 </template>
 
 <style scoped>
